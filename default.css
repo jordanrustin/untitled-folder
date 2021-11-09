@@ -18,7 +18,9 @@ h2{
     position: absolute; top: 250px; left: 30px;
     
 }
-body{ background-color: grey;}
+body{ background-image: url("home\ ice.jpg");
+background-color: #cccccc;
+}
 
 h3{
     font-size: 30px;
@@ -28,7 +30,9 @@ h3{
 
 }
 table, th, td{
-border: 1px solid black;
+border: 1px solid white;
+color: white;
+text-shadow: black 1px 1px;
 
 }
 #table{
